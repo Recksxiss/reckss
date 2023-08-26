@@ -8,6 +8,9 @@
     margin: auto;
     padding: 0px;
 }
+article{
+    text-align: justify;
+}
     img{
         width: 100%;
     }
@@ -79,7 +82,7 @@ main p{
      
 }
 .tt{
-    text-align: center;
+    text-align: justify;
     margin-top: 0px;
     padding-top: 25px;
 }
