@@ -33,7 +33,10 @@ body{
     max-width: 500px;
     width: 950px;
 }
-main{
+main{ 
+    min-width: 300px;
+    max-width: 500px;
+    width: 850px;
    
     margin: auto;
     padding: 10px;
