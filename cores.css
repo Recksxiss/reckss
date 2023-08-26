@@ -29,8 +29,8 @@ body{
     margin: auto;
     background-color:var(--cor4);
     color: black;
-     min-width: 320px;
-    max-width: 600px;
+     min-width: 300px;
+    max-width: 500px;
     width: 950px;
 }
 main{
